@@ -1,5 +1,7 @@
-# Name: DILIP M.P
-# Roll No: 212223230048
+```
+Name:- DILIP.M.P.
+Reg no:- 212223230048
+```
 # Experiment 01: Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
 # AIM
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
